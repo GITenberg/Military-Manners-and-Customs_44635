@@ -1,0 +1,32 @@
+_repo: Military-Manners-and-Customs_44635
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Farrer, James Anson
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '35293'
+    url: http://www.gutenberg.org/2009/agents/35293
+description: ''
+gutenberg_issued: '2014-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44635'
+  lccn: '01001474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military art and science'
+- !lcc 'U'
+- !lcsh 'War'
+- !lcsh 'Soldiers'
+tableOfContents: The laws of war -- Warfare in chivalrous times -- Naval warfare --
+  Military reprisals -- Military stratagems -- Barbarian warfare -- War and Christianity
+  -- Curiositites of military discipline -- The limits of military duties.
+title: Military Manners and Customs
+url: http://www.gutenberg.org/ebooks/44635
