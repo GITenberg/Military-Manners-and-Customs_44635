@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35293'
     url: http://www.gutenberg.org/2009/agents/35293
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44635#Military-Manners-and-Customs
 gutenberg_issued: '2014-01-09'
 gutenberg_type: Text
 identifiers:
